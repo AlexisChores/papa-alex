@@ -1,4 +1,4 @@
-# papa-alex
+# repo-uno
 primer repo creado en github
 
 ## descripcion
